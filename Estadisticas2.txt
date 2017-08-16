@@ -1,0 +1,17 @@
+***ESTADISTICAS***	
+**Jugador 2**	
+*Grethel Duarte Fué el Ganador!
+*Aciertos: 1
+*Fallos: 2
+*Puntos: 100
+*Barcos Destruidos*
+*1 	
+****************
+Tipo: Acorazado
+Cantidad de tripulantes muertos: 22
+****************
+**Jugador 1**	
+*Pablo Fué el Perdedor
+*Aciertos: 0
+*Fallos: 2
+*Puntos: 0

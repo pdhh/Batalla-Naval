@@ -1,0 +1,16 @@
+***ESTADISTICAS***	
+**Jugador 1**	
+*Roger Fué el Ganador!
+*Aciertos: 0
+*Fallos: 3
+*Puntos: 0
+*Barcos Destruidos*
+*0	
+****************
+*No Acertó ningun barco*	
+*****************
+**Jugador 2**	
+*David Fué el Perdedor
+*Aciertos: 0
+*Fallos: 2
+*Puntos: 0
